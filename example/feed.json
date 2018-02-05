@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Bloodhound supersonic carries out first public runs",
+    "desc":
+      "The Bloodhound car got up to 200mph in about eight seconds. The Bloodhound Super Sonic Car has conducted its first public runs. ... Ultimately, Bloodhound will be fitted with a rocket motor as well so that it can go 1,000mph (1,610km/h)",
+    "image": "http://placehold.it/350x200/f5f5f5?text=Bloodhound supersonic ",
+    "link": "bbc.com",
+    "company": "BBC News",
+    "time": "1 min",
+    "reactions": []
+  },
+  {
+    "id": 2,
+    "title": "US Shutdown: Government services closed as working weeks",
+    "desc":
+      "Efforts to reach a compromise ahead of the working week failed in a rare Senate session late on Sunday. A vote to end the shutdown was postponed until midday on Monday, meaning many federal government offices will not open as the shutdown enters its third day. Why the US government has shut down",
+    "image": "http://placehold.it/350x200/f5f5f5?text=US Shutdown",
+    "link": "gbcghana.com",
+    "company": "Gbcghana News",
+    "time": "1 hr",
+    "reactions": []
+  },
+  {
+    "id": 3,
+    "title": "Coincheck promises 46bn yen refund after cryptocurrency theft",
+    "desc":
+      "Coincheck has promised to use its own funds to reimburse more than 46bn yen ($423m) to customers who lost their NEM cryptocurrency coins on Friday.The Tokyo-based company suspended trading after detecting unauthorised access of its digital exchange.Some 260,000 customers are said to be affected by the reported theft.Coincheck said on Sunday that the amount it has promised to return covers nearly 90% of the 58bn yen worth of NEM coins lost in the attack.",
+    "image": "http://placehold.it/350x200/f5f5f5?text=Cryptocurrency Theft",
+    "link": "cnn.com",
+    "company": "CNN News",
+    "time": "9 hr",
+    "reactions": []
+  },
+  {
+    "id": 4,
+    "title": "Calls to clean off Banksy mural in Hull",
+    "desc":
+      "Hundreds of people have been turning up to see a work by the world-famous graffiti artist Banksy, on a disused bridge in Hull. Banksy has appeared to confirm it is his creation on social media - but not everyone is happy about it.",
+    "image": "http://placehold.it/350x200/f5f5f5?text=Clean Off",
+    "link": "abc.com",
+    "company": "ABC News",
+    "time": "Yesterday",
+    "reactions": []
+  }
+]

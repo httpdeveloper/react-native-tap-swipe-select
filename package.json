@@ -1,0 +1,29 @@
+{
+  "name": "react-native-tap-swipe-select",
+  "version": "0.0.1",
+  "description": "Tab Swipe Select for React Native",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react-native-tap-swipe-select",
+    "fblike",
+    "swipe",
+    "tap-swipe-select",
+    "facebook-like-tap-swipe-select"
+  ],
+  "author": {
+    "name": "Dinesh Maharjan",
+    "email": "httpdeveloper@gmail.com",
+    "url": "https://github.com/httpdeveloper"
+  },
+  "bugs": {
+    "url":
+      "https://github.com/httpdeveloper/react-native-tap-swipe-select/issues"
+  },
+  "homepage": "https://github.com/httpdeveloper/react-native-tap-swipe-select",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/httpdeveloper/react-native-tap-swipe-select"
+  }
+}

@@ -1,0 +1,12 @@
+# OSX
+.DS_Store
+
+# Android
+.idea
+.gradle
+
+# node.js
+npm-debug.log
+
+#Visual Studio
+.history
